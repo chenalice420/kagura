@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/ayaka/Pictures/wallpaper/uOkHaTy7_4x.jpg"
+let background = "#190f16"
+let foreground = "#dbd7d1"
+let cursor     = "#dbd7d1"
+
+" Colors
+let color0  = "#190f16"
+let color1  = "#DF252D"
+let color2  = "#B35A4E"
+let color3  = "#BCA45C"
+let color4  = "#677681"
+let color5  = "#7593A3"
+let color6  = "#96A7A7"
+let color7  = "#dbd7d1"
+let color8  = "#999692"
+let color9  = "#DF252D"
+let color10 = "#B35A4E"
+let color11 = "#BCA45C"
+let color12 = "#677681"
+let color13 = "#7593A3"
+let color14 = "#96A7A7"
+let color15 = "#dbd7d1"
